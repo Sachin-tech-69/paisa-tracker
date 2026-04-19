@@ -1,0 +1,10 @@
+{
+  "name": "paisa-tracker",
+  "version": "1.0.0",
+  "description": "Student Budget & Finance Tracker for Indian students",
+  "scripts": {
+    "install-all": "cd backend && npm install",
+    "start": "cd backend && node server.js",
+    "dev": "cd backend && npm run dev"
+  }
+}
