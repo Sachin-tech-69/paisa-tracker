@@ -124,4 +124,6 @@ For production, set a strong `JWT_SECRET` environment variable.
 ## To test 
 https://paisa-tracker-69.onrender.com
 
+---
+
 Made with ❤️ for Indian college students
